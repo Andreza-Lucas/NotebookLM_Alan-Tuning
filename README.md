@@ -8,6 +8,16 @@ O objetivo é organizar conhecimentos utilizando o **NotebookLM**, conectando hi
 
 ---
 
+---
+
+## 👨‍💻 Como acessar o notebookLM
+
+Por meio do link abaixo: 
+
+https://notebooklm.google.com/notebook/c84c5034-d1f2-49dd-b998-18f40e73f9ae/preview
+
+---
+
 ## 👨‍💻 Quem foi Allan Turing?
 
 Alan Turing foi um matemático, lógico e criptógrafo britânico, considerado um dos pais da computação moderna.
